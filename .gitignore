@@ -1,0 +1,16 @@
+# Build outputs
+bin/
+obj/
+
+# Database files
+*.db
+*.db-wal
+*.db-shm
+data/database/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
